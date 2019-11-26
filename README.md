@@ -1,10 +1,8 @@
 ## RUSHHOUR AI
-***
 An AI that will complete a [Rush Hour](https://en.wikipedia.org/wiki/Rush_Hour_(puzzle)) board in as few a moves as is possible.<br/><br/>
 Given a .txt file with information about the Rush Hour gameboard, this Java script will find the most efficient number of steps to complete the board.<br/><br/>
 
 ### RUNNING THE PROGRAM
-***
 
 To run the program on random1.txt<br/>
 `java RushHour random1.txt`<br/><br/>
