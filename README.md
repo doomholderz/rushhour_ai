@@ -1,6 +1,6 @@
 ### RUSHHOUR AI
 <hr>
-An AI that will complete a [GitHub](http://github.com) board in as few a moves as is possible.
+An AI that will complete a [Github]() board in as few a moves as is possible.
 Given a .txt file with information about the Rush Hour gameboard, this Java script will find the most efficient number of steps to complete the board.
 
 To run the program on random1.txt<br/>
