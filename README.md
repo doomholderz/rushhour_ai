@@ -12,4 +12,4 @@ The program takes the information inside the random text file as followed:
 * 2nd Line: Number of rows<br/>
 * 3rd Line: Position of the goal car (we want to get this car to the final column)<br/>
   * Car position is shown as Column, Row, Length, Orientiation, where H = horizontal, and V = vertical
-* 4th Line +: Positions of the blocking cars
+* 4th Line Onwards: Positions of the blocking cars
